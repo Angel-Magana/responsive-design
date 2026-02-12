@@ -1,1 +1,16 @@
 /* styles.css */
+:root {
+/* CSS HEX */
+--deep-space-blue: #273043ff;
+--lavender-grey: #9197aeff;
+--mint-cream: #eff6eeff;
+--strawberry-red: #f02d3aff;
+--primary-scarlet: #dd0426ff;
+}
+
+html {
+background-color: var(--lavender-grey);
+}
+h1 {
+  color: var(--strawberry-red);
+}
