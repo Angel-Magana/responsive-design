@@ -14,3 +14,7 @@ background-color: var(--lavender-grey);
 h1 {
   color: var(--strawberry-red);
 }
+
+.col {
+    border: 1px solid red;
+}
